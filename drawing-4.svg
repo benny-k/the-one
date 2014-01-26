@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,7 +30,7 @@
      inkscape:window-height="865"
      id="namedview40"
      showgrid="true"
-     inkscape:zoom="2"
+     inkscape:zoom="4"
      inkscape:cx="54.282982"
      inkscape:cy="68.6875"
      inkscape:window-x="0"
@@ -77,6 +78,25 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5858">
+      <stop
+         id="stop5868"
+         offset="0"
+         style="stop-color:#04c8fc;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#04c8fc;stop-opacity:0;"
+         offset="1"
+         id="stop5862" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5850"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#04c8fc;stop-opacity:1;"
+         offset="0"
+         id="stop5852" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern3021"
@@ -97,6 +117,27 @@
          id="rect3017"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </pattern>
+    <filter
+       inkscape:collect="always"
+       id="filter5116"
+       x="-0.13298214"
+       width="1.2659643"
+       y="-0.13259221"
+       height="1.2651844">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.4622624"
+         id="feGaussianBlur5118" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5858"
+       id="linearGradient5866"
+       x1="-1.9818304"
+       y1="61.44136"
+       x2="122.81741"
+       y2="61.44136"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -136,5 +177,11 @@
            y="72.362183"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">Hi !</tspan></text>
     </g>
+    <path
+       style="fill:url(#linearGradient5866);fill-opacity:1.0;opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter5116)"
+       d="m 18.851933,110.6816 c -1.888805,-0.31691 -3.428986,-1.13124 -4.906322,-2.5941 -1.449733,-1.43553 -2.253612,-2.94344 -2.616937,-4.90885 -0.167716,-0.90726 -0.23162,-15.42563 -0.187546,-42.60866 0.07343,-45.287509 -0.05846,-41.722077 1.639043,-44.309407 1.041336,-1.587201 2.592207,-2.824462 4.514676,-3.601737 l 1.413135,-0.571346 40.48401,-0.06906 c 24.326937,-0.04149 41.161168,0.02478 42.180728,0.166075 3.43815,0.476452 6.08448,2.320483 7.52278,5.242064 l 0.81248,1.650372 0,42.380271 0,42.380278 -0.72523,1.57051 c -0.92111,1.99467 -3.05188,4.02775 -5.07862,4.84578 l -1.44615,0.5837 -41.124998,0.0358 c -23.73524,0.0207 -41.698407,-0.0604 -42.481049,-0.19171 z m 4.179971,-81.284185 0.07392,-1.684915 1.602155,0 1.602155,0 0.07392,1.6875 c 0.06554,1.496192 0.130606,1.6875 0.573923,1.6875 0.478494,0 0.5,-0.166667 0.5,-3.875 0,-3.708333 -0.02151,-3.875 -0.5,-3.875 -0.438728,0 -0.509121,0.191476 -0.57443,1.5625 l -0.07443,1.5625 -1.613071,0 -1.61307,0 0,-1.485246 c 0,-1.539814 -0.176167,-1.873328 -0.85244,-1.613818 -0.33851,0.129898 -0.39756,0.699393 -0.39756,3.834144 0,2.024873 0.07889,3.760476 0.175309,3.856896 0.09642,0.09642 0.349545,0.142132 0.5625,0.101582 0.294833,-0.05614 0.404824,-0.475634 0.461113,-1.758643 z M 30.278415,28.275 c -0.05786,-2.413141 -0.137373,-2.9375 -0.445433,-2.9375 -0.308061,0 -0.387573,0.524359 -0.445434,2.9375 -0.06771,2.823707 -0.05045,2.9375 0.445434,2.9375 0.495884,0 0.513139,-0.113793 0.445433,-2.9375 z m 6.429567,2.184076 c 0,-0.443108 -0.15237,-0.643316 -0.53068,-0.697294 -0.635417,-0.09066 -0.983923,0.606275 -0.559123,1.118127 0.44824,0.540098 1.089803,0.292356 1.089803,-0.420833 l 0,0 z m -0.08963,-2.891258 c 0.0882,-0.814175 0.172575,-2.183443 0.1875,-3.042818 0.02617,-1.507236 0.005,-1.5625 -0.597867,-1.5625 l -0.625,0 0,2.958333 c 0,1.627084 0.07735,3.035677 0.171875,3.130209 0.412262,0.412261 0.714365,-0.106664 0.863492,-1.483224 l 0,0 z m -6.160367,-3.726894 c 0,-0.572018 -0.839284,-0.840722 -1.134414,-0.363193 -0.309208,0.500309 0.02494,1.01807 0.603733,0.935487 0.337381,-0.04814 0.530681,-0.256595 0.530681,-0.572294 z"
+       id="path5074"
+       inkscape:connector-curvature="0"
+       transform="translate(149,43.362183)" />
   </g>
 </svg>
