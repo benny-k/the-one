@@ -11,17 +11,17 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="744.09448"
-   height="1052.3622"
+   width="121"
+   height="121"
    id="svg2"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="drawing-4.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c5c5"
      borderopacity="1"
      objecttolerance="10"
-     gridtolerance="10"
+     gridtolerance="10000"
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
@@ -29,18 +29,51 @@
      inkscape:window-height="865"
      id="namedview40"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="67.084874"
-     inkscape:cy="970.78941"
+     inkscape:zoom="2"
+     inkscape:cx="54.282982"
+     inkscape:cy="68.6875"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g3032"
      inkscape:snap-global="true"
-     inkscape:snap-grids="true">
+     inkscape:snap-grids="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     borderlayer="false"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
-       id="grid3019" />
+       id="grid3019"
+       empspacing="10"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10px"
+       spacingy="10px"
+       color="#040b59"
+       opacity="1"
+       empcolor="#040b59"
+       empopacity="1" />
+    <sodipodi:guide
+       position="-10,-928.99996"
+       orientation="0,744.09448"
+       id="guide2990" />
+    <sodipodi:guide
+       position="734.09448,-928.99996"
+       orientation="-1052.3622,0"
+       id="guide2992" />
+    <sodipodi:guide
+       position="-10,-928.99996"
+       orientation="0,744.09448"
+       id="guide2998" />
+    <sodipodi:guide
+       position="734.09448,-928.99996"
+       orientation="-1052.3622,0"
+       id="guide3000" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -79,10 +112,10 @@
   </metadata>
   <g
      id="g3032"
-     transform="translate(-139,-41)">
+     transform="translate(-149,-43.362183)">
     <g
        id="g3039"
-       transform="translate(-10,1)">
+       transform="translate(-10,2.0000004)">
       <rect
          style="fill:url(#pattern3026);stroke:none"
          width="101"
